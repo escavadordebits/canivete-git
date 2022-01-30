@@ -328,7 +328,7 @@ namespace Canivete
             else
             {
                 string msg = oCompany.GetLastErrorDescription();
-                MessageBox.Show("Desconectado - Clique em conectar" + msg);
+                MessageBox.Show("Desconectado - Clique no botao conectar conectar" + msg);
 
             }
 
