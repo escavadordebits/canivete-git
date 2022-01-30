@@ -1,0 +1,14 @@
+C:\Users\paulo.moraes\Documents\Visual Studio 2015\Projects\BKPEVO\Canivete\Canivete\bin\x64\Debug\Canivete.exe.config
+C:\Users\paulo.moraes\Documents\Visual Studio 2015\Projects\BKPEVO\Canivete\Canivete\bin\x64\Debug\Canivete.exe
+C:\Users\paulo.moraes\Documents\Visual Studio 2015\Projects\BKPEVO\Canivete\Canivete\bin\x64\Debug\Canivete.pdb
+C:\Users\paulo.moraes\Documents\Visual Studio 2015\Projects\BKPEVO\Canivete\Canivete\obj\x64\Debug\Interop.SAPbobsCOM.dll
+C:\Users\paulo.moraes\Documents\Visual Studio 2015\Projects\BKPEVO\Canivete\Canivete\obj\x64\Debug\Canivete.csproj.ResolveComReference.cache
+C:\Users\paulo.moraes\Documents\Visual Studio 2015\Projects\BKPEVO\Canivete\Canivete\obj\x64\Debug\Canivete.Config.resources
+C:\Users\paulo.moraes\Documents\Visual Studio 2015\Projects\BKPEVO\Canivete\Canivete\obj\x64\Debug\Canivete.Form1.resources
+C:\Users\paulo.moraes\Documents\Visual Studio 2015\Projects\BKPEVO\Canivete\Canivete\obj\x64\Debug\Canivete.Properties.Resources.resources
+C:\Users\paulo.moraes\Documents\Visual Studio 2015\Projects\BKPEVO\Canivete\Canivete\obj\x64\Debug\Canivete.SolRemb.resources
+C:\Users\paulo.moraes\Documents\Visual Studio 2015\Projects\BKPEVO\Canivete\Canivete\obj\x64\Debug\Canivete.csproj.GenerateResource.cache
+C:\Users\paulo.moraes\Documents\Visual Studio 2015\Projects\BKPEVO\Canivete\Canivete\obj\x64\Debug\Canivete.csproj.CoreCompileInputs.cache
+C:\Users\paulo.moraes\Documents\Visual Studio 2015\Projects\BKPEVO\Canivete\Canivete\obj\x64\Debug\Canivete.exe
+C:\Users\paulo.moraes\Documents\Visual Studio 2015\Projects\BKPEVO\Canivete\Canivete\obj\x64\Debug\Canivete.pdb
+C:\Users\paulo.moraes\Documents\Visual Studio 2015\Projects\BKPEVO\Canivete\Canivete\obj\x64\Debug\Canivete.csproj.AssemblyReference.cache
